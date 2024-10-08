@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FPortfolio/static/css/main.82e92111.css",
+    "main.js": "/FPortfolio/static/js/main.0c6b5281.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FPortfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Mark_William.pdf": "/FPortfolio/static/media/Mark_William.1910ddc504abc01e13e5.pdf",
+    "index.html": "/FPortfolio/index.html",
+    "main.82e92111.css.map": "/FPortfolio/static/css/main.82e92111.css.map",
+    "main.0c6b5281.js.map": "/FPortfolio/static/js/main.0c6b5281.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FPortfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e92111.css",
+    "static/js/main.0c6b5281.js"
+  ]
+}
